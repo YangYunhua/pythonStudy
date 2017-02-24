@@ -1,0 +1,7 @@
+user/testLogin
+user/testGetAddressList
+user/testGetAddress
+user/testGetProductInfo
+#user/testDeleteAddress
+#user/testAddAddress
+#product/testGetProductInfo

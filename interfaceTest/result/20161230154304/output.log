@@ -1,0 +1,8 @@
+2016-12-30 15:43:04,324 - root - INFO - ********TEST START********
+2016-12-30 15:43:04,758 - root - INFO - login - Code:0 msg:ok -------- OK
+2016-12-30 15:43:05,135 - root - INFO - login_PasswordError - Code:400504 msg:PasswordError -------- OK
+2016-12-30 15:43:05,696 - root - INFO - getAddressList_success - Code:0 msg:ok -------- OK
+2016-12-30 15:43:06,133 - root - INFO - getAddress_success - Code:0 msg:ok -------- OK
+2016-12-30 15:43:06,524 - root - INFO - getProductInfo - Code:0 msg:ok -------- OK
+2016-12-30 15:43:06,666 - root - ERROR - (553, b'authentication is required,163 smtp12,EMCowAAHnKX9D2ZYRv1lGw--.10769S2 1483083773', 'hw5zyq@163.com')
+2016-12-30 15:43:06,666 - root - INFO - *********TEST END*********

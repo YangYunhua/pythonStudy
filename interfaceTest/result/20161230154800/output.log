@@ -1,0 +1,8 @@
+2016-12-30 15:48:00,323 - root - INFO - ********TEST START********
+2016-12-30 15:48:00,735 - root - INFO - login - Code:0 msg:ok -------- OK
+2016-12-30 15:48:01,141 - root - INFO - login_PasswordError - Code:400504 msg:PasswordError -------- OK
+2016-12-30 15:48:01,545 - root - INFO - getAddressList_success - Code:0 msg:ok -------- OK
+2016-12-30 15:48:01,961 - root - INFO - getAddress_success - Code:0 msg:ok -------- OK
+2016-12-30 15:48:02,462 - root - INFO - getProductInfo - Code:0 msg:ok -------- OK
+2016-12-30 15:48:03,083 - root - ERROR - [SSL: TLSV1_ALERT_DECODE_ERROR] tlsv1 alert decode error (_ssl.c:645)
+2016-12-30 15:48:03,084 - root - INFO - *********TEST END*********
